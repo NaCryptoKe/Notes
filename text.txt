@@ -1,1 +1,11 @@
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC8KLjgaIk8pS3bA+oi98VHA5HePnU9CSiSovKbX3izhXNyxDodev+4gYkDPLIJPpeC058He6r6nABLZnUOeUCCSpmHrwTNTwgwFmujLtFSVwb5/53Eo498QVmpG+HPt6Rzd8EZfS39h22z6TT16aaJW4LixjGUqVGPlYzuDCXqMTKqB2uXPfncwJqTFlbuh7Mla8Pu1jytYdsvHiBpyvPWF06Kqz3XjcnuuIak0kWTIeVm8u0KggKQO9+STeT9A3CPv+fxVVg/qM7tUCUNMGH56u6yqJk0ecjAlTYb3mfZwTGH5VrYCLDQ6m2ZypQn+yHaXtj/Y8DLWiWXX18W4gsvR0oTAsR4o2WmZbIDljTVb40OVDMQK1AAJfy31pJ4N0qPOkKDabXrESEQckI6e2NBwVNDOgrqtA6jgfBLj9YaYGWTKCkprNghIzPXN4hn4gccz9+qhcT/JuV8A28PiopktLfhF7SUkLvRTQXXgkE0HssdxoZfqWEL8yVpGhtJqJ4T8Doyf9VSMILLy2FZoDw8LOsdOkwqLC0XObsdVABys6Rb2Zgtk//cP1/6c4zlWeBQQyjBYuXZaSgJ5nKJ0X5FsPlnPaFbLdMKK5HjxjOoPcAm0G61IXvnVEceucqcX3E0EkBmjMMI/kdUj0trR637XiFDs1Yffv/de8Q9WEit5Q== nahomcryptoketema@gmail.com
+[01;34m.[0m
+├── [01;34mData Structure & Algorithm Analysis (CS341) 5 Credit Hours[0m
+│   └── README.md
+├── [01;34mGeneral Physics (CC140) 4 Credit Hours[0m
+├── [01;34mLogic Design (CS301) 4 Credit hours[0m
+├── README.md
+├── [01;34mSystem Analysis and Design (CS343) 4 Credit hours[0m
+├── text.txt
+└── Text.txt
+
+5 directories, 4 files

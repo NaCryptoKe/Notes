@@ -1,11 +1,79 @@
-[01;34m.[0m
-├── [01;34mData Structure & Algorithm Analysis (CS341) 5 Credit Hours[0m
+.
+├── Data_Structure_&_Algorithm_Analysis_(CS341)_5_Credit_Hours
 │   └── README.md
-├── [01;34mGeneral Physics (CC140) 4 Credit Hours[0m
-├── [01;34mLogic Design (CS301) 4 Credit hours[0m
+├── General_Physics_(CC140)_4_Credit_Hours
+├── .git
+│   ├── branches
+│   ├── COMMIT_EDITMSG
+│   ├── config
+│   ├── description
+│   ├── HEAD
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── push-to-checkout.sample
+│   │   ├── sendemail-validate.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   │       ├── heads
+│   │       │   ├── main
+│   │       │   └── master
+│   │       └── remotes
+│   │           └── origin
+│   │               └── main
+│   ├── objects
+│   │   ├── 05
+│   │   │   └── 25503dd644a0ba080ed4ea3c4de703c2c2e819
+│   │   ├── 43
+│   │   │   └── 7351e1c055fcfe8d491a66b8527f530c346858
+│   │   ├── 48
+│   │   │   └── 56d750fd8037aa67d46bc1c38517c62b46a7f9
+│   │   ├── 4f
+│   │   │   └── f4ef8911389e8f42c8a1a5f97a0b672d8e799c
+│   │   ├── 64
+│   │   │   └── 5b9d00f6af88170229733446b6cf227b9cc5da
+│   │   ├── 67
+│   │   │   └── 0a245535fe6316eb2316c1103b1a88bb519334
+│   │   ├── a3
+│   │   │   └── c677827dec63cccc895a61ae9b0556ff181492
+│   │   ├── d2
+│   │   │   └── 3531e1c9a902ff2818e95f3f70ae4cc3b773e6
+│   │   ├── da
+│   │   │   └── 11780c84b0332c5ca4e60138f21813fe112f4c
+│   │   ├── e6
+│   │   │   ├── 5be1c343e409e47658c13a6941f7c8f85ad104
+│   │   │   └── 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+│   │   ├── f0
+│   │   │   └── 69c73abe880325c790b0f08e048ff64b061229
+│   │   ├── f9
+│   │   │   └── 3e3a1a1525fb5b91020da86e44810c87a2d7bc
+│   │   ├── info
+│   │   └── pack
+│   └── refs
+│       ├── heads
+│       │   ├── main
+│       │   └── master
+│       ├── remotes
+│       │   └── origin
+│       │       └── main
+│       └── tags
+├── Logic_Design_(CS301)_4_Credit_Hours
 ├── README.md
-├── [01;34mSystem Analysis and Design (CS343) 4 Credit hours[0m
-├── text.txt
-└── Text.txt
+├── System_Analysis_&_Design_(CS343)_4_Credit_Hours
+└── text.txt
 
-5 directories, 4 files
+34 directories, 43 files
